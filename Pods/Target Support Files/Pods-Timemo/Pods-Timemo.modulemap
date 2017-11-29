@@ -1,0 +1,6 @@
+framework module Pods_Timemo {
+  umbrella header "Pods-Timemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
